@@ -1,2 +1,2 @@
 # ProjectFour
-Terraform initialize
+Python as intialize with learn curves.
